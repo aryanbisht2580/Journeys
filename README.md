@@ -1,4 +1,4 @@
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/a3e96534-0190-423d-818d-d3e045b93729" /># Journeys - E-commerce Shoe Store
+# Journeys - E-commerce Shoe Store
 
 A full-stack e-commerce platform specializing in branded shoes from top brands like Adidas, Nike, New Balance, Puma, and more. The application features separate admin and user panels with comprehensive functionality for managing products, orders, and user accounts.
 
