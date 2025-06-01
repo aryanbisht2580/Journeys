@@ -198,35 +198,26 @@ The application uses a combination of custom components and Ant Design component
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1470" alt="image" src="https://github.com/user-attachments/assets/c06ccb7c-6069-4c63-a618-60bf7bb7035e" />
-)
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/c06ccb7c-6069-4c63-a618-60bf7bb7035e" />
 
 ### 👟 Products Page
-![Products Page](<img width="1468" alt="image" src="https://github.com/user-attachments/assets/6eca399c-c9bf-4436-b234-4cdb184a7d19" />
-)
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/6eca399c-c9bf-4436-b234-4cdb184a7d19" />
 
 ### 🗂️ Products Detial Page
-![Products Detail Page](<img width="1470" alt="image" src="https://github.com/user-attachments/assets/cf4a48e7-3852-450c-8fcf-4b183e086e69" />
-)
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/cf4a48e7-3852-450c-8fcf-4b183e086e69" />
 
 ### 🗂️ Cart Page
 <img width="1466" alt="image" src="https://github.com/user-attachments/assets/abae98e0-2cae-4802-ac8a-e746f36652e9" />
 
-
-
 ### 🛠️ Admin Panel
-![Admin Panel](<img width="1464" alt="image" src="https://github.com/user-attachments/assets/4d024f91-af7d-41de-baaf-95c4d2f82202" />
-)
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/4d024f91-af7d-41de-baaf-95c4d2f82202" />
+
 
 ### 📦 Orders Management
-![Orders](<img width="1463" alt="image" src="https://github.com/user-attachments/assets/67c1b43e-e43d-4a41-bfa2-43e576ef69b1" />
-)
+<img width="1463" alt="image" src="https://github.com/user-attachments/assets/67c1b43e-e43d-4a41-bfa2-43e576ef69b1" />
 
 ### 💳 Payment Integration (Razorpay)
-![Payment](<img width="1464" alt="image" src="https://github.com/user-attachments/assets/af9d1e5d-c841-45a2-87d5-87d59e4ab44f" />
-)
-
-
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/af9d1e5d-c841-45a2-87d5-87d59e4ab44f" />
 
 
 ## 📱 Responsive Design
