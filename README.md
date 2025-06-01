@@ -209,15 +209,15 @@ The application uses a combination of custom components and Ant Design component
 ### 🗂️ Cart Page
 <img width="1466" alt="image" src="https://github.com/user-attachments/assets/abae98e0-2cae-4802-ac8a-e746f36652e9" />
 
+### 💳 Payment Integration (Razorpay)
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/80488303-bff0-4f28-843f-d56f35b85859" />
+
 ### 🛠️ Admin Panel
 <img width="1464" alt="image" src="https://github.com/user-attachments/assets/4d024f91-af7d-41de-baaf-95c4d2f82202" />
-
 
 ### 📦 Orders Management
 <img width="1463" alt="image" src="https://github.com/user-attachments/assets/67c1b43e-e43d-4a41-bfa2-43e576ef69b1" />
 
-### 💳 Payment Integration (Razorpay)
-<img width="1464" alt="image" src="https://github.com/user-attachments/assets/af9d1e5d-c841-45a2-87d5-87d59e4ab44f" />
 
 
 ## 📱 Responsive Design
