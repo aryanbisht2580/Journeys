@@ -210,9 +210,9 @@ The application uses a combination of custom components and Ant Design component
 )
 
 ### 🗂️ Cart Page
-![Cart Page](<img width="1466" alt="image" src="https://github.com/user-attachments/assets/abae98e0-2cae-4802-ac8a-e746f36652e9" />
+<img width="1466" alt="image" src="https://github.com/user-attachments/assets/abae98e0-2cae-4802-ac8a-e746f36652e9" />
 
-)
+
 
 ### 🛠️ Admin Panel
 ![Admin Panel](<img width="1464" alt="image" src="https://github.com/user-attachments/assets/4d024f91-af7d-41de-baaf-95c4d2f82202" />
